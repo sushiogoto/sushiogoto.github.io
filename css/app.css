@@ -1,0 +1,73 @@
+/* Page Setup - Icons - Section Display
+============================================*/
+h2 {
+  line-height: 28px;
+}
+.col-md-6.extra-spacing {
+  margin-bottom: 30px;
+}
+.how-to-donate-icon {
+  max-width: 90%;
+  max-height: 150px;
+  margin-bottom: 20px;
+}
+.steps-explained {
+  margin-bottom: 50px;
+}
+
+
+/* Home Section
+============================================*/
+#tf-home {
+  background: url("../img/home/background.png");
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#tf-home .content {
+  padding: 150px 0 50px;
+}
+button.sign-up-top {
+  font-size: 20px;
+  border-radius: 100px;
+  padding: 10px 30px;
+}
+#tf-home > div > div > a {
+  margin-top: 100px;
+}
+
+
+/* How to Donate
+============================================*/
+#tf-how-to-donate {
+  padding: 50px 0 30px;
+  background-color: #EDEDED;
+  color: #5d5d5d;
+}
+.donation-steps {
+  padding: 0 20px;
+  color: #5d5d5d;
+}
+
+
+/* Contact Section
+============================================*/
+#mc-embedded-subscribe {
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.donate-button {
+  font-size: 20px;
+  border-radius: 100px;
+  padding: 10px 30px;
+  margin: 0;
+}
+#tf-contact .form-control {
+  border-radius: 0;
+  font-size: 20px;
+  height: 54px;
+  margin: 10px 0;
+}
