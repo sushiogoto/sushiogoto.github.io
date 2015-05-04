@@ -49,11 +49,23 @@ button.sign-up-top {
   color: #5d5d5d;
 }
 
+/* Who Are We Working With?
+============================================*/
+#tf-ngo-partner {
+  padding-bottom: 30px;
+  background-color: #EDEDED;
+  color: #5d5d5d;
+}
+.donation-steps {
+  padding: 0 20px;
+  color: #5d5d5d;
+}
+
 /* How to Donate
 ============================================*/
 #tf-how-to-donate {
   padding-bottom: 30px;
-  background-color: #EDEDED;
+  /*background-color: #EDEDED;*/
   color: #5d5d5d;
 }
 .donation-steps {
