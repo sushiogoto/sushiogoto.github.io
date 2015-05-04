@@ -138,6 +138,9 @@ font-weight: 900;
 }
 #tf-home p.lead{
 	color: #e3e3e3;
+	padding-left: 100px;
+	padding-right: 100px;
+
 }
 
 .content{
