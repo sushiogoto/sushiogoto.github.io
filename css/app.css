@@ -69,7 +69,7 @@ button.sign-up-top {
 ============================================*/
 #tf-how-to-donate {
   padding-bottom: 30px;
-  /*background-color: #EDEDED;*/
+  background-color: #EDEDED;
   color: #5d5d5d;
 }
 .donation-steps {
@@ -77,6 +77,13 @@ button.sign-up-top {
   color: #5d5d5d;
 }
 
+/* Uber wireframes
+============================================*/
+.uber-wireframe-icon {
+  max-width: 100%;
+  max-height: 500px;
+  margin-bottom: 20px;
+}
 
 /* Contact Section
 ============================================*/
