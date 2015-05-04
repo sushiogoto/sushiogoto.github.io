@@ -60,6 +60,10 @@ button.sign-up-top {
   padding: 0 20px;
   color: #5d5d5d;
 }
+.more-info {
+  font-size: 24px;
+  text-transform: uppercase;
+}
 
 /* How to Donate
 ============================================*/
