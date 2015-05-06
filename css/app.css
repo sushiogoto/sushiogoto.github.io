@@ -60,7 +60,6 @@ button.sign-up-top {
 ============================================*/
 #tf-ngo-partner {
   padding-bottom: 30px;
-  background-color: #EDEDED;
   color: #5d5d5d;
 }
 .donation-steps {
@@ -85,6 +84,12 @@ button.sign-up-top {
 
 /* Uber wireframes
 ============================================*/
+#tf-uber-flow {
+  padding-bottom: 30px;
+  background-color: #EDEDED;
+  color: #5d5d5d;
+}
+
 .uber-wireframe-icon {
   max-width: 100%;
   max-height: 500px;
