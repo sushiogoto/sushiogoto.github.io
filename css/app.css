@@ -44,10 +44,6 @@ button.sign-up-top {
 #tf-our-sponsors {
   color: #5d5d5d;
 }
-.donation-steps {
-  padding: 0 20px;
-  color: #5d5d5d;
-}
 
 /* Donation Info
 ============================================*/
@@ -56,24 +52,19 @@ button.sign-up-top {
   color: #5d5d5d;
 }
 
-/* Who Are We Working With?
-============================================*/
-#tf-ngo-partner {
-  padding-bottom: 30px;
-  color: #5d5d5d;
-}
-.donation-steps {
-  padding: 0 20px;
-  color: #5d5d5d;
-}
-.more-info {
-  font-size: 24px;
-  text-transform: uppercase;
-}
 
 /* How to Donate
 ============================================*/
 #tf-how-to-donate {
+  padding-bottom: 30px;
+  color: #5d5d5d;
+}
+
+
+/* Signup
+============================================*/
+#tf-signup {
+  background-color: #EDEDED;
   padding-bottom: 30px;
   color: #5d5d5d;
 }
@@ -86,7 +77,6 @@ button.sign-up-top {
 ============================================*/
 #tf-uber-flow {
   padding-bottom: 30px;
-  background-color: #EDEDED;
   color: #5d5d5d;
 }
 
@@ -100,6 +90,18 @@ button.sign-up-top {
   max-width: 200px;
   max-height: 100%;
   margin-bottom: 20px;
+}
+
+/* Who Are We Working With?
+============================================*/
+#tf-ngo-partner {
+  padding-bottom: 30px;
+  background-color: #EDEDED;
+  color: #5d5d5d;
+}
+.more-info {
+  font-size: 24px;
+  text-transform: uppercase;
 }
 
 /* Contact Section
