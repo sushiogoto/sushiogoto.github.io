@@ -24,6 +24,14 @@ h2 {
   margin-right: 40px;
 }
 
+.address {
+  font-size: 17px;
+}
+
+.no-bottom-margin {
+  margin-bottom: 0px !important;
+}
+
 
 /* Home Section
 ============================================*/
